@@ -1,0 +1,11 @@
+
+# LoginResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**resultField** | **kotlin.String** | Displays the result of the call. |  [readonly]
+**tokenField** | [**TokenField**](TokenField.md) |  | 
+
+
+
